@@ -82,3 +82,9 @@ print("\nNested loops:")
 for i in range(1, 3):
   for j in range(1, 4):
    print("i =", i, "j =", j)
+
+print("\nAnother example of for loop:")
+
+for k in range(1,6):
+ print(*[i for i in range(1,k+1)])
+ 
