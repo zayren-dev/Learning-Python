@@ -156,8 +156,8 @@ print("Symmetric difference:", result)
 
 # are present in another set.
 
-small_set = {1, 2}
-large_set = {1, 2, 3, 4}
+small_set = {1, 2, 3, 4}
+large_set = {1, 2, 3, 4, 5, 6, 7}
 print("Is small_set a subset?", small_set.issubset(large_set))
 
 
