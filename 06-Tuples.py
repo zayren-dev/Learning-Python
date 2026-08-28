@@ -9,7 +9,7 @@ student = ("Zayren", 18, 3.5)
 print(student)
 
 # A tuple can also be created without brackets
-colors = "red", "green", "blue"
+colors = "red", "green", "blue", " orange
 print(colors)
 
 
@@ -95,7 +95,8 @@ print(field)
 students = (
     ("Ali", 18),
     ("Ahmed", 19),
-    ("Sara", 18)
+    ("Sara", 18),
+    ("Jhon", 21)
 )
 
 print(students[0])
