@@ -4,7 +4,7 @@ fruits = ['kiwi', 'apple', 'watermelon', 'dragon fruit']                     # l
 vegetables = ['Tomato', 'Potato', 'Cabbage','Onion', 'Carrot']      # list of vegetables
 animal_products = ['milk', 'meat', 'butter', 'cream']             # list of animal products
 web_techs = ['HTML', 'CSS', 'JS', 'React','Redux', 'Node', 'MongDB'] # list of web technologies
-countries = ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway', 'Azerbaijan] 
+countries = ['Finland', 'Estonia', 'Denmark', 'Sweden', 'Norway', 'Azerbaijan'] 
 
 # Print the lists and its length
 
