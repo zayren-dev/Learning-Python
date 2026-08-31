@@ -10,5 +10,4 @@ print("Modulus =", a%b)
 print("Exponent =", a**b)
 print("Type of a is", type(a))
 print("Type of b is", type(b))
-print("Type of a+b is", type(a+b))
 
