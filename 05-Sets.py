@@ -4,7 +4,7 @@
 
 # 1. Creating a Set
 
-numbers = {1, 2, 3, 4, 5}
+numbers = {1, 2, 3, 4}
 print("Set:", numbers)
 
 # 2. Sets Do Not Allow Duplicate Values
