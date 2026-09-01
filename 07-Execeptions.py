@@ -9,6 +9,7 @@ try:
     print("Subtraction:", first - second)
     print("Multiplication:", first * second)
     print("Division:", first / second)
+    print("Exponentiation:", first ** second)
 
 except ValueError:
     # Runs when the user enters something
