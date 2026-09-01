@@ -90,7 +90,7 @@ print("Is 10 not in the set?", 10 not in numbers)
 # 13. Looping Through a Set
 
 
-fruits = {"apple", "banana", "orange"}
+fruits = {"apple", "banana", "orange", "kiwi"}
 print("Fruits:")
 
 for fruit in fruits:
