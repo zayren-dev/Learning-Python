@@ -9,12 +9,12 @@ student = ("Zayren", 18, 3.5)
 print(student)
 
 # A tuple can also be created without brackets
-colors = "red", "green", "blue", "orange"
+colors = "red", "green", "blue", "orange" , "violet"
 print(colors)
 
 
 # Accessing tuple items
-numbers = (10, 20, 30, 40, 50, 60)
+numbers = (10, 20, 30, 40, 50)
 
 print(numbers[0])
 print(numbers[2])
